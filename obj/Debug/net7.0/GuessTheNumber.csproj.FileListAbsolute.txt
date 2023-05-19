@@ -1,0 +1,15 @@
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\bin\Debug\net7.0\GuessTheNumber.exe
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\bin\Debug\net7.0\GuessTheNumber.deps.json
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\bin\Debug\net7.0\GuessTheNumber.runtimeconfig.json
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\bin\Debug\net7.0\GuessTheNumber.dll
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\bin\Debug\net7.0\GuessTheNumber.pdb
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.csproj.AssemblyReference.cache
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.AssemblyInfoInputs.cache
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.AssemblyInfo.cs
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.dll
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\obj\Debug\net7.0\refint\GuessTheNumber.dll
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.pdb
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\obj\Debug\net7.0\GuessTheNumber.genruntimeconfig.cache
+C:\Users\ramir\OneDrive\Escritorio\Proyectos\GuessTheNumber\GuessTheNumber\obj\Debug\net7.0\ref\GuessTheNumber.dll
